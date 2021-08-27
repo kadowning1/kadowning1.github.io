@@ -12,7 +12,7 @@ Welcome to my programming journey!  This site will always be a work in progress 
 
 >The first week has given me all the emotions that I've expected.  Excitement, nervousness, anxiousness, and a sense of purpose knowing I'm on the right track.  I've enjoyed all of the headaches and processes of the first week especially with *Git* and *GitHub*.  I know it is not going to be easy, but I can't wait to build on skills each day.  I'm looking forward to grasping *JavaScript* as well as continuing building on my introductory *Git* skills.  Additionally in talking to mentors in the field, I'm eager to learn more on the *SQL* & Backend side of the entire stack.  Let the fun begin!
 
- #### Activities outside of Bootcamp I enjoy:
+ ### Activities outside of Bootcamp I enjoy:
 >>1. Peloton ![Peloton](https://res.cloudinary.com/peloton-cycle/image/fetch/dpr_1.0,f_auto,q_auto:best,w_560/https://s3.amazonaws.com/workout-metric-images-prod/10e643fc3b7b44928e3c97a372322874)
 >>1. Gardening ![Garden](https://www.moneycrashers.com/wp-content/uploads/2020/07/home-vegetable-garden.jpg)
 >>1. Woodworking ![Woodworking](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcij4Nm0ZkfVlTXNRogghmcqonaJ58stUy9g&usqp=CAU)
