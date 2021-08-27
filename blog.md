@@ -10,7 +10,7 @@ Welcome to my programming journey!  This site will always be a work in progress 
 
 ![Bootcamp](https://www.incimages.com/uploaded_files/image/1920x1080/software-computer-code-1940x900_35196.jpg)
 
->The first week has given me all the emotions that I've expected.  Excitement, nervousness, anxiousness, and a sense of purpose knowing I'm on the right track.  I've enjoyed all of the headaches and processes of the first week especially with *Git* and *GitHub*.  I know it is not going to be easy, but I can't wait to build on skills each day.  I'm looking forward to grasping *JavaScript* as well as continue building on my introductory *Git* skills.  Additionally in talking to mentors in the field, I'm eager to learn more on the *SQL* & Backend side of the entire stack.  Let the fun begin!
+>The first week has given me all the emotions that I've expected.  Excitement, nervousness, anxiousness, and a sense of purpose knowing I'm on the right track.  I've enjoyed all of the headaches and processes of the first week especially with *Git* and *GitHub*.  I know it is not going to be easy, but I can't wait to build on skills each day.  I'm looking forward to grasping *JavaScript* as well as continuing building on my introductory *Git* skills.  Additionally in talking to mentors in the field, I'm eager to learn more on the *SQL* & Backend side of the entire stack.  Let the fun begin!
 
  #### Activities outside of Bootcamp I enjoy:
 >>1. Peloton ![Peloton](https://res.cloudinary.com/peloton-cycle/image/fetch/dpr_1.0,f_auto,q_auto:best,w_560/https://s3.amazonaws.com/workout-metric-images-prod/10e643fc3b7b44928e3c97a372322874)
