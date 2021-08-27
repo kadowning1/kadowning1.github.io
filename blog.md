@@ -15,9 +15,9 @@ Welcome to my programming journey!  This site will always be a work in progress 
  ### Activities outside of Bootcamp I enjoy:
   1. Peloton ![Peloton](https://res.cloudinary.com/peloton-cycle/image/fetch/dpr_1.0,f_auto,q_auto:best,w_560/https://s3.amazonaws.com/workout-metric-images-prod/10e643fc3b7b44928e3c97a372322874)
   1. Gardening ![Garden](https://www.moneycrashers.com/wp-content/uploads/2020/07/home-vegetable-garden.jpg)
-  1. Woodworking ![Woodworking](https://www.incimages.com/uploaded_files/image/1920x1080/software-computer-code-1940x900_35196.jpg)
-1. Sports (Golf, Basketball, Soccer) ![Sports](https://www.incimages.com/uploaded_files/image/1920x1080/software-computer-code-1940x900_35196.jpg)
-1. My Dogs (Sam & Molly) ![Bootcamp](K+B-27.jpg)
+  1. Woodworking ![Woodworking](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcij4Nm0ZkfVlTXNRogghmcqonaJ58stUy9g&usqp=CAU)
+1. Sports (Golf, Basketball, Soccer) ![Sports](https://d1sgwhnao7452x.cloudfront.net/CA_OB_LPBG_Multisport_2021_V3_Mobile_720x405.jpg)
+1. My Dogs (Sam & Molly) ![Bootcamp](https://sylviastahlphotography.pixieset.com/keithbekah/fall2019/?pid=3547691550&id=27&h=MjcxNDUwMjk0OQ)
 
 I will continue to add to this page frequently so be on the lookout for more content ahead!
 
