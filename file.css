@@ -1,4 +1,4 @@
-img.dogs {
+#dogs {
   width: 20px; 
-  overflow: auto;
+  height: 20px;
 }
