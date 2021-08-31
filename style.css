@@ -9,7 +9,7 @@ html {
 body {
     background-color: darkgrey;
 }
-ul {
+body.ul {
   background: red;
   padding: 10px;
   border: 1px solid black;
@@ -21,6 +21,7 @@ li {
 
 nav.tabs {
   background-color: orangered;
+  display: inline-block;
 }
 
 h2 {
