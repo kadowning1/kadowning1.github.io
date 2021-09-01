@@ -24,3 +24,7 @@ Welcome to my programming journey!  This site will always be a work in progress 
 I will continue to add to this page frequently so be on the lookout for more content ahead!
 
 See you next week!
+
+### Second Week of Onboarding
+
+>The second week of the remote onboarding is full of content!  Introductions to HTML, CSS, & Dev Tools can be very overwhelming
