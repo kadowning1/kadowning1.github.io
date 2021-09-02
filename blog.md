@@ -21,9 +21,9 @@ Welcome to my programming journey!  This site will always be a work in progress 
 >>1. My Dogs (Sam & Molly) ![Dogs](https://github.com/kadowning1/kadowning1.github.io/blob/dev/img/K+B-27.jpg?raw=true)
 
 
-I will continue to add to this page frequently so be on the lookout for more content ahead!
+>I will continue to add to this page frequently so be on the lookout for more content ahead!
 
-See you next week!
+>See you next week!
 
 ### Second Week of Onboarding
 
@@ -38,4 +38,8 @@ See you next week!
 
 >> My son, Wyatt, turned 1 and we had a birthday party for him with (limited) friends and family.  
 
->>1. Wyatt's Birthday (Wyatt) ![Wyatt](https://github.com/kadowning1/kadowning1.github.io/blob/dev/img/K+B-27.jpg?raw=true)
+>>1. Wyatt's Birthday ![Wyatt](https://github.com/kadowning1/kadowning1.github.io/blob/dev/img/D4E58021-BFA0-4DEE-8C42-5899021590BD.JPG?raw=true)
+
+>I can already tell this blog will be helpful on so many levels.  It will allow me to always reflect on the past while looking toward the future.
+
+>See you next week!
