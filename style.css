@@ -7,6 +7,8 @@ html {
   font-size: 20px;
 }
 body {
+    background-image: url(https://media.istockphoto.com/photos/horses-on-the-farm-picture-id177000853?k=20&m=177000853&s=612x612&w=0&h=8W1vMzNq7hpjfRNNITI2vYoiGXNyLnMYr480k6Q3gO0=);
+    background-repeat: no-repeat;
     background-color: darkgrey;
 }
 body.ul {
@@ -20,8 +22,9 @@ li {
 }
 
 nav.tabs {
-  background-color: orangered;
-  display: inline-block;
+  font-size: small;
+  display: flex;
+  flex: content;
 }
 
 h2 {
