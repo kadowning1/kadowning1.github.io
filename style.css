@@ -1,32 +1,56 @@
 #dogs {
-  width: 200px; 
-  height: 300px;
-}
-html {
-  background-color: green;
-  font-size: 20px;
-}
-body {
-    background-image: url(https://media.istockphoto.com/photos/horses-on-the-farm-picture-id177000853?k=20&m=177000853&s=612x612&w=0&h=8W1vMzNq7hpjfRNNITI2vYoiGXNyLnMYr480k6Q3gO0=);
-    background-repeat: no-repeat;
-    background-color: darkgrey;
-}
-body.ul {
-  background: red;
-  padding: 10px;
-  border: 1px solid black;
-}
+      width: 200px;
+      height: 300px;
+    }
 
-li {
-  margin-left: 20px;
-}
+    .wyatt {
+      width: 200px;
+      height: 250px;
+    }
 
-nav.tabs {
-  font-size: small;
-  display: flex;
-  flex: content;
-}
+    html {
+      background-color: lightblue;
+      font-size: 20px;
+    }
 
-h2 {
-    border: 1px orangered;
-}
+    body {
+      background-image: url(https://media.istockphoto.com/photos/horses-on-the-farm-picture-id177000853?k=20&m=177000853&s=612x612&w=0&h=8W1vMzNq7hpjfRNNITI2vYoiGXNyLnMYr480k6Q3gO0=);
+      background-repeat: space;
+      background-color: darkgrey;
+      background-position: center;
+      text-align: center;
+      color: white;
+    }
+
+    body.ul {
+      background: red;
+      padding: 10px;
+      border: 1px solid black;
+    }
+
+    li {
+      margin-left: 20px;
+    }
+
+    nav.tabs {
+      font-size: small;
+      display: flex;
+      flex: 100%;
+    }
+
+    nav ul {
+      padding: 0;
+      list-style-type: none;
+      flex: 2;
+      display: flex;
+    }
+
+    nav li {
+      display: inline;
+      text-align: center;
+      flex: 1;
+    }
+
+    h2 {
+      border: 1px orangered;
+    }

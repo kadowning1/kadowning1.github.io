@@ -1,55 +1,131 @@
-
 <!DOCTYPE html>
 <html lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <meta name="author" content="Keith Downing">
-    <meta name="description" content="A look into the life of a Web Development Bootcamp Student.">
-    <title>Keith Downing's Bootcamp Blog </title>
-    <link rel="stylesheet" href="style.css">
-    <style>
-    </style>
-    <script></script>
-    </head>
-    <nav class="tabs">
-        <ul>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Keith Downing">
+  <meta name="description" content="A look into the life of a Web Development Bootcamp Student.">
+  <title>Keith Downing's Bootcamp Blog </title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    #dogs {
+      width: 200px;
+      height: 300px;
+    }
+
+    .wyatt {
+      width: 200px;
+      height: 250px;
+    }
+
+    html {
+      background-color: lightblue;
+      font-size: 20px;
+    }
+
+    body {
+      background-image: url(https://media.istockphoto.com/photos/horses-on-the-farm-picture-id177000853?k=20&m=177000853&s=612x612&w=0&h=8W1vMzNq7hpjfRNNITI2vYoiGXNyLnMYr480k6Q3gO0=);
+      background-repeat: space;
+      background-color: darkgrey;
+      background-position: center;
+      text-align: center;
+      color: white;
+    }
+
+    body.ul {
+      background: red;
+      padding: 10px;
+      border: 1px solid black;
+    }
+
+    li {
+      margin-left: 20px;
+    }
+
+    nav.tabs {
+      font-size: small;
+      display: flex;
+      flex: 100%;
+    }
+
+    nav ul {
+      padding: 0;
+      list-style-type: none;
+      flex: 2;
+      display: flex;
+    }
+
+    nav li {
+      display: inline;
+      text-align: center;
+      flex: 1;
+    }
+
+    h2 {
+      border: 1px orangered;
+    }
+  </style>
+  <script></script>
+</head>
+<nav class="tabs">
+  <ul>
     <li><a href="#">Home</a></li>
     <li><a href="#">Projects</a></li>
     <li><a href="#">About</a></li>
     <li><a href="#">Contact</a></li>
-        </ul>
-    </nav>
-  <body>
-    <h1>KD's Web Developmental Dive</h1>
-    <p>This is my <a href="https://github.com/kadowning1" title="GitHub Page" target="_blank>"> GitHub </a> page and this blog will be updated throughout <strong>bootcamp.</strong></p>
-    <img id="dogs" src="https://github.com/kadowning1/kadowning1.github.io/blob/main/img/K+B-27.jpg?raw=true" alt="Molly and Sam">
-    <br>
-    <h2>Blog Posts</h2>
-    <h3>First Week of Onboarding</h3>
-    <p><blockquote>Creating my first blog post during the onboarding stages of the Web Dev bootcamp. I have been learning up to this point to seamlessly enter the bootcamp as prepared as possible while also leaving myself opportunities to see how others can teach me certain aspects. I'm trying to combine many avenues (SoloLearn, FreeCodeCamp, Eloquent <i>Javascript</i> & Prework) to be in a position to approach the camp full steam ahead.</blockquote></p>
-    <p><blockquote>The first week has given me all the emotions that I've expected.  Excitement, nervousness, anxiousness, and a sense of purpose knowing I'm on the right track.  I've enjoyed all of the headaches and processes of the first week especially with <i>Git</i> and <i>GitHub</i>.  I know it is not going to be easy, but I can't wait to build on skills each day.  I'm looking forward to grasping <i>JavaScript</i> as well as continuing building on my introductory <i>Git</i> skills.  Additionally in talking to mentors in the field, I'm eager to learn more on the <i>SQL</i> & Backend side of the entire stack.  Let the fun begin!</blockquote></p>
-    <h3>Activities outside of Bootcamp I enjoy:</h3>
-    <ul>
-        <li>Peloton</li>
-        <li>Gardening</li>
-        <li>Woodworking</li>
-        <li>Sports</li>
-        <li>My Dogs</li>
-        </ul>
-<h3>Second Week of Onboarding</h3>
+  </ul>
+</nav>
 
-    <p><blockquote>The second week of the remote onboarding is full of content!  Introductions to <i>HTML</i>, <i>CSS</i>, & <i>Google Dev Tools</i> can be very overwhelming.  I understand the main concepts of each, but can't wait until they become repetitive and second nature.</blockquote></p>
-    <p><blockquote>Learning <i>Git</i> has been a challenge even more so this week.  I am understanding what commands work, but getting frustrated when it is not seamless.</blockquote></p>
-    <p><blockquote>I know with this camp, I will continue to run into obstacles daily.  With these daily obstacles, I walk through whether to reach out for help or try to solve the issue myself.  An everyday comparison would be comparing this camp to a typical trip to Lowes.  I understand general concepts with what I am looking for, but often struggle to find them.  At Lowes, I go knowing what I am looking for and where it is.  If I can't find it, I usually don't ask for assistance until I have looked up and down aisles.  Call it stubborn, determined, focused, or ignorant, but I like solving problems.  I hope to take these traits and use them for my benefit in the weeks ahead.</blockquote></p>
-    <p><blockquote>Going forward, I am focusing even more so on <i>JavaScript</i>.  I don't have all the pieces to create an application yet, but I can see how what we are learning in this content-filled week will translate when we add more programs. I'm excited that September is here and the in-person portion of the Bootcamp is just around the corner.  Let the fun and learning continue!</blockquote></p>
+<body>
+  <h1>KD's Web Developmental Dive</h1>
+  <p>This is my <a href="https://github.com/kadowning1" title="GitHub Page" target="_blank>"> GitHub </a> page and this blog will be updated throughout <strong>bootcamp.</strong></p>
+  <img id="dogs" src="https://github.com/kadowning1/kadowning1.github.io/blob/main/img/K+B-27.jpg?raw=true" alt="Molly and Sam">
+  <br>
+  <h2>Blog Posts</h2>
+  <h3>First Week of Onboarding</h3>
+  <p>
+  <blockquote>Creating my first blog post during the onboarding stages of the Web Dev bootcamp. I have been learning up to this point to seamlessly enter the bootcamp as prepared as possible while also leaving myself opportunities to see how others can teach me certain aspects. I'm trying to combine many avenues (SoloLearn, FreeCodeCamp, Eloquent <i>Javascript</i> & Prework) to be in a position to approach the camp full steam ahead.</blockquote>
+  </p>
+  <p>
+  <blockquote>The first week has given me all the emotions that I've expected. Excitement, nervousness, anxiousness, and a sense of purpose knowing I'm on the right track. I've enjoyed all of the headaches and processes of the first week especially with <i>Git</i> and <i>GitHub</i>. I know it is not going to be easy, but I can't wait to build on skills each day. I'm looking forward to grasping <i>JavaScript</i> as well as continuing building on my introductory <i>Git</i> skills. Additionally in talking to mentors in the field, I'm eager to learn more on the <i>SQL</i> & Backend side of the entire stack. Let the fun begin!</blockquote>
+  </p>
+  <h3>Activities outside of Bootcamp I enjoy:</h3>
+  <ul>
+    <li>Peloton</li>
+    <li>Gardening</li>
+    <li>Woodworking</li>
+    <li>Sports</li>
+    <li>My Dogs</li>
+  </ul>
+  <h3>Second Week of Onboarding</h3>
 
-<h3>Past week in my personal life:</h3>
+  <p>
+  <blockquote>The second week of the remote onboarding is full of content! Introductions to <i>HTML</i>, <i>CSS</i>, & <i>Google Dev Tools</i> can be very overwhelming. I understand the main concepts of each, but can't wait until they become repetitive and second nature.</blockquote>
+  </p>
+  <p>
+  <blockquote>Learning <i>Git</i> has been a challenge even more so this week. I am understanding what commands work, but getting frustrated when it is not seamless.</blockquote>
+  </p>
+  <p>
+  <blockquote>I know with this camp, I will continue to run into obstacles daily. With these daily obstacles, I walk through whether to reach out for help or try to solve the issue myself. An everyday comparison would be comparing this camp to a typical trip to Lowes. I understand general concepts with what I am looking for, but often struggle to find them. At Lowes, I go knowing what I am looking for and where it is. If I can't find it, I usually don't ask for assistance until I have looked up and down aisles. Call it stubborn, determined, focused, or ignorant, but I like solving problems. I hope to take these traits and use them for my benefit in the weeks ahead.</blockquote>
+  </p>
+  <p>
+  <blockquote>Going forward, I am focusing even more so on <i>JavaScript</i>. I don't have all the pieces to create an application yet, but I can see how what we are learning in this content-filled week will translate when we add more programs. I'm excited that September is here and the in-person portion of the Bootcamp is just around the corner. Let the fun and learning continue!</blockquote>
+  </p>
 
-    <p><blockquote>My son, Wyatt, turned 1 and we had a birthday party for him with friends and family.</blockquote></p>
-    <img src="https://github.com/kadowning1/kadowning1.github.io/raw/dev/img/D4E58021-BFA0-4DEE-8C42-5899021590BD.JPG?raw=true" alt="Wyatt" class="wyatt">
-    <p><blockquote>I can already tell this blog will be helpful on so many levels.  It will allow me to always reflect on the past while looking toward the future.</blockquote></p>
-    <p><blockquote>See you next week!</blockquote></p>
+  <h3>Past week in my personal life:</h3>
+
+  <p>
+  <blockquote>My son, Wyatt, turned 1 and we had a birthday party for him with friends and family.</blockquote>
+  </p>
+  <img src="https://github.com/kadowning1/kadowning1.github.io/raw/dev/img/D4E58021-BFA0-4DEE-8C42-5899021590BD.JPG?raw=true" alt="Wyatt" class="wyatt">
+  <p>
+  <blockquote>I can already tell this blog will be helpful on so many levels. It will allow me to always reflect on the past while looking toward the future.</blockquote>
+  </p>
+  <p>
+  <blockquote>See you next week!</blockquote>
+  </p>
 </body>
 <footer>Keith Downing's Web Blog</footer>
+
 </html>
 
