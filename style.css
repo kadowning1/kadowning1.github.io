@@ -13,19 +13,22 @@
       font-size: 20px;
     }
 
+    body.li {
+
+      padding: 10px;
+      border: 1px solid black;
+      text-align: left;
+    }
+
     body {
       background-image: url(https://media.istockphoto.com/photos/horses-on-the-farm-picture-id177000853?k=20&m=177000853&s=612x612&w=0&h=8W1vMzNq7hpjfRNNITI2vYoiGXNyLnMYr480k6Q3gO0=);
-      background-repeat: space;
+      background-repeat: no-repeat;
+      background-size: contain;
       background-color: darkgrey;
       background-position: center;
       text-align: center;
       color: white;
-    }
-
-    body.ul {
-      background: red;
-      padding: 10px;
-      border: 1px solid black;
+      font-family: sans-serif;
     }
 
     li {
@@ -33,22 +36,20 @@
     }
 
     nav.tabs {
-      font-size: small;
+      font-size: large;
       display: flex;
       flex: 100%;
     }
 
     nav ul {
-      padding: 0;
       list-style-type: none;
-      flex: 1;
-      display: flex;
+        color: black;
+      display: inline-block;
     }
 
     nav li {
-      display: inline;
+      display: inline-block;
       text-align: center;
-      flex: 1;
     }
 
     h2 {
