@@ -53,3 +53,13 @@ Welcome to my programming journey!  This site will always be a work in progress 
 >>Next week is full-on *psuedocode*.  I think this week will be vital for me to help establish my thoughts before writing the code.  If I have my thoughts in order, the code hopefully will follow!
 
 >>See you next week!
+
+ ### Fourth Week of Onboarding
+
+>>It's hard to believe, but the remote portion of the Bootcamp has come to a close.  It has been very helpful in many regards like allowing me to transition at a slower pace.  I've been able to get some footing before diving completely in.  Also, it has helped with the mental aspect of this camp for me by letting me deal with my frustrations and figuring out the best way to overcome these hurdles.  I have learned so much, but ready for the in-person portion to start on Monday to be able to bounce ideas off fellow cohort members and learn even more quickly with in-person instruction.
+
+>>In the past week, we have worked primarily on *psuedocode* and getting our thoughts in line.  The *psuedocode* projects had up and downs for me (Imagine that!).  I enjoyed getting my thoughts together, but I know I need to get them better organized and more clear to translate that into actual code.   I can see a great help this will be before actually writing the code, so I want to make sure to prioritize this going forward.
+
+>>Coming up, one thing is sure.  I'm giving this camp all that I have.  I have enjoyed being back in a class and learning every day while still being at home.  Being in an actual classroom will be something to get used to again.  I know it is only going to make me better in the future. There will be several ups and downs throughout the Bootcamp, but by taking it day by day I will certainly see the work pay off.
+
+>>See you next week!
