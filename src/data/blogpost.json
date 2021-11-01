@@ -1,0 +1,106 @@
+[
+    {
+        "week": 1,
+        "headline": "Week One Blog",
+        "p1": "text",
+        "p2": "text",
+        "p3": "more text",
+        "p4": "close",
+        "date": "August",
+        "image": "img"
+    },
+    {
+        "week": 2,
+        "headline": "Week Two Blog",
+        "p1": "text",
+        "p2": "text",
+        "p3": "more text",
+        "p4": "close",
+        "date": "August",
+        "image": "img"
+    },
+    {
+        "week": 3,
+        "headline": "Week Three Blog",
+        "p1": "text",
+        "p2": "text",
+        "p3": "more text",
+        "p4": "close",
+        "date": "August",
+        "image": "img"
+    },
+    {
+        "week": 4,
+        "headline": "Week Four Blog",
+        "p1": "text",
+        "p2": "text",
+        "p3": "more text",
+        "p4": "close",
+        "date": "August",
+        "image": "img"
+    },
+    {
+        "week": 5,
+        "headline": "Week Five Blog",
+        "p1": "text",
+        "p2": "text",
+        "p3": "more text",
+        "p4": "close",
+        "date": "August",
+        "image": "img"
+    },
+    {
+        "week": 6,
+        "headline": "Week One Blog",
+        "p1": "Week 6 of the Bootcamp is in the books. 
+        Our cohort had an up and down week with learning 
+                            through the camp and dealing with the realities of 2021. We had a few days remote this week
+                            and ended the week back in person to demo our Weather projects. I learn so much by being in
+                            person and one of the main reasons I decided to do this Web Dev class.",
+        "p2": "text",
+        "p3": "more text",
+        "p4": "close",
+        "date": "August",
+        "image": "img/Screen Shot 2021-10-01 at 4.06.36 PM.png"
+    },
+    {
+        "week": 7,
+        "headline": "Week One Blog",
+        "p1": "text",
+        "p2": "text",
+        "p3": "more text",
+        "p4": "close",
+        "date": "August",
+        "image": "img"
+    },
+    {
+        "week": 8,
+        "headline": "Week One Blog",
+        "p1": "text",
+        "p2": "text",
+        "p3": "more text",
+        "p4": "close",
+        "date": "August",
+        "image": "img"
+    },
+    {
+        "week": 9,
+        "headline": "Week One Blog",
+        "p1": "text",
+        "p2": "text",
+        "p3": "more text",
+        "p4": "close",
+        "date": "August",
+        "image": "img"
+    },
+    {
+        "week": 10,
+        "headline": "Week One Blog",
+        "p1": "text",
+        "p2": "text",
+        "p3": "more text",
+        "p4": "close",
+        "date": "August",
+        "image": "img"
+    }
+]

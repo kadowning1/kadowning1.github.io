@@ -7,7 +7,7 @@ import Header from './Components/Header'
 import { BrowserRouter, Route, Switch, } from 'react-router-dom';
 import Home from './Pages/Home'
 import AboutMe from './Pages/ProjectPage';
-import Blog from './Pages/Blog'
+// import Blog from './Pages/Blog'
 
 function App() {
   return (
@@ -34,7 +34,6 @@ function App() {
             <Footer />
           </BrowserRouter>
         </div>
-    );
       </body>
     </>
   )
