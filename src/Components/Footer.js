@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function Footer() {
     return (
-        <footer className="d-flex flex-wrap align-items-center py-3 my-4 border-top justify-content-center">
+        <footer className="d-flex flex-wrap align-items-center py-3 my-4 border-top justify-content-center" id='footer'>
             <div className='text-center'>
                 <h6>Connect with Keith Downing</h6>
                 <ul className="nav col justify-content-center list-unstyled d-flex">

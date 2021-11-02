@@ -1,20 +1,21 @@
 import React from 'react'
 
-export default function Week3() {
+export default function Week2() {
     return (
+
         <div class="container">
             <div class="row">
                 <div class="clearfix">
                     <div class="card position-relative top-50 start-50 translate-middle">
                         <img src="img/Screen Shot 2021-10-01 at 4.06.36 PM.png"
-                            class="rounded mx-auto d-block img-fluid img-thumbnail w-50" alt="..." />
+                            class="rounded mx-auto d-block img-fluid img-thumbnail w-50" alt="..." ></img>
                         <div class="card-body">
                             <h5 class="card-title">Week 4 In-Person</h5>
-                            <p class="card-text">
+                            {<p class="card-text">
                                 Week 6 of the Bootcamp is in the books. Our cohort had an up and down week with learning
                                 through the camp and dealing with the realities of 2021. We had a few days remote this week
-                                and ended the week back in person to demo our Weather projects. I learn so much by being in
-                            person and one of the main reasons I decided to do this Web Dev class.</p>
+                                and enßded the week back in person to demo our Weather projects. I learn so much by being in
+                            person and one of the main reasons I decided to do this Web Dev class.</p>}
                             <p>
                                 This week we learned how to fetch an API and return up-to-date information that we can use
                                 while creating different programs. API's open up so many possibilities for our current and
@@ -40,3 +41,4 @@ export default function Week3() {
         </div>
     )
 }
+

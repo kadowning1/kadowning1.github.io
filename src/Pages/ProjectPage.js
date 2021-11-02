@@ -3,7 +3,7 @@ import React from 'react'
 export default function AboutMe() {
     return (
         <div className='container'>
-            <div className='text-center'>
+            {/* <div className='text-center'>
                 <h1>Projects Page</h1>
                 <br></br>
                 <div className='row'>
@@ -14,7 +14,7 @@ export default function AboutMe() {
                     <h6 className="col-2">Week 5 Project</h6>
                     <h6 className="col-2">Week 6 Project</h6>
                 </div>
-            </div>
+            </div> */}
             <br></br>
             <div className='row'>
                 <div className="col-md-6 col-sm-12 py-2 justify-content-center">
@@ -75,6 +75,11 @@ export default function AboutMe() {
                         ineprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                         Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <p className="card-text">
+                            <b>Tech Stack:</b> HTML, CSS,
+                                    React-Bootstrap, JavaScript, React Hooks,
+                                    React-Router
+                                </p>
                     </div>
                 </div>
             </div>

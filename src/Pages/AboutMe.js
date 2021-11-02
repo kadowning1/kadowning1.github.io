@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function AboutMe() {
     return (
-        
-        <div className='container'>
+
+        <div className='container' id='aboutme'>
             <div className='row'>
                 <div className='col'>
                     <h1 className='text-center'>ABOUT ME</h1>
@@ -22,6 +22,6 @@ export default function AboutMe() {
                 </div>
             </div>
         </div>
-        
+
     )
 }

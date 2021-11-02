@@ -7,32 +7,32 @@ import Header from './Components/Header'
 import { BrowserRouter, Route, Switch, } from 'react-router-dom';
 import Home from './Pages/Home'
 import AboutMe from './Pages/ProjectPage';
-// import Blog from './Pages/Blog'
+import Blog from './Pages/Blog'
 
 function App() {
   return (
     <>
       <body className='p-3 mb-2 bg-dark text-white'>
-        <div className="text-center">
-          <BrowserRouter>
+        <div className="container text-center">
+          {/* <BrowserRouter> */}
             <Header
             />
-            <Switch>
-              <Route path="/projects">
-                <ProjectPage />
-              </Route>
-              {/* <Route path="/blog">
-                <Blog />
-              </Route> */}
-              <Route path="/aboutme">
+            {/* <Switch>
+              <Route path="/projects"> */} 
                 <AboutMe />
+                <ProjectPage />
+               {/* </Route>
+              <Route path="/blog">
+                <Blog />
               </Route>
+              <Route path="/aboutme"> */}
+              {/* </Route>
               <Route path="/">
                 <Home />
               </Route>
-            </Switch>
+            </Switch> */}
             <Footer />
-          </BrowserRouter>
+          {/* </BrowserRouter> */}
         </div>
       </body>
     </>
