@@ -1,5 +1,4 @@
-[
-    {
+[{
         "week": 1,
         "headline": "Week One Blog",
         "p1": "text",
@@ -52,11 +51,7 @@
     {
         "week": 6,
         "headline": "Week One Blog",
-        "p1": "Week 6 of the Bootcamp is in the books. 
-        Our cohort had an up and down week with learning 
-                            through the camp and dealing with the realities of 2021. We had a few days remote this week
-                            and ended the week back in person to demo our Weather projects. I learn so much by being in
-                            person and one of the main reasons I decided to do this Web Dev class.",
+        "p1": " up so many possibilities for our current and future projects.  It is still amazing how everyone in our class is writing code that differs and accomplishes the same result.  You're able to tell how others in the Bootcamp develop good code by having it logical, clear, and understandable to the class.  These are key traits that I hope to include in each of my projects going forwar",
         "p2": "text",
         "p3": "more text",
         "p4": "close",
