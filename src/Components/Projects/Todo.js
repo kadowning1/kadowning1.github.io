@@ -1,10 +1,10 @@
 import React from 'react'
 
-export default function TicTacToe() {
+export default function Todo() {
     return (
         <div className="col-md-6 col-sm-12 py-2 justify-content-center">
             <div className="card card-body flex-column text-center p-3 mb-2 bg-secondary text-white h-100">
-                <img className="card-img-top image-fluid mx-auto p-3" src='/img/TicTacToe.png' alt='food' />
+                <img className="card-img-top image-fluid mx-auto p-3" src='/img/Todo.png' alt='food' />
                 <br></br>
                 <a href='https://github.com/kadowning1/markdown-portfolio'><h5 class="card-title">MarkDown Project</h5></a>
                 <p className="card-text">Lorem ipsum dolor sit amet, consectetur
@@ -16,9 +16,8 @@ export default function TicTacToe() {
                 Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 <p className="card-text">
-                    <b>Tech Stack:</b> HTML, CSS, Bootstrap, JavaScript</p>
+                    <b>Tech Stack:</b> HTML, CSS, Bootstrap, JavaScript, React</p>
             </div>
         </div>
-
     )
 }

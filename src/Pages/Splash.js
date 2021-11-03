@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 export default function Splash() {
     return (
@@ -16,6 +17,7 @@ export default function Splash() {
                                         <h1 class="card-title text-white">Keith Downing</h1>
                                         <br></br>
                                         <h3 class="card-title text-white">Web Developer</h3>
+                                        <Link to="/aboutme" as={Link} className="btn btn-secondary lg p-3">Enter</Link>
                                     </div>
                                 </div>
                             </div>

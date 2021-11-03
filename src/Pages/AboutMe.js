@@ -4,12 +4,12 @@ export default function AboutMe() {
     return (
 
         <div className='container p-3' id='aboutme'>
-            <div className='row text-center'>
-                <br></br>
-                <div className='col'>
-                    <h1 className=''>About Me</h1>
+            <div className='row d-flex justify-content-center'>
+                
+                <div className='col justify-content-center d-flex'>
+                    <h1 className='text-center'>About Me</h1>
                 <div className='col-3 p-3'>
-                    <img src="/img/mug.jpeg" class="rounded mx-auto d-block img-fluid img-thumbnail rounded-circle" alt="..." />
+                    <img src="/img/mug.jpeg" class="card-img-top justify-content-center rounded mx-auto d-block img-fluid img-thumbnail rounded-circle" alt="..." />
                 </div>
                 </div>
                 <div className="text-center text-white">
@@ -18,7 +18,7 @@ export default function AboutMe() {
                         </p>
                 </div>
                 <div className='col-4 justify-content-center'>
-                    <img className="card-img-top justify-content-center" src="/img/kentucky-modified.jpeg" alt='kentucky' />
+                    <img className="card-img-top justify-content-center" src="/img/K+B-52.jpg" alt='kentucky' />
                 </div>
                 <br></br>
                 <div className="p-3 text-center text-white">
@@ -28,6 +28,5 @@ export default function AboutMe() {
                 </div>
             </div>
         </div>
-
     )
 }

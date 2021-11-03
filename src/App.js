@@ -6,7 +6,7 @@ import { BrowserRouter, Route, Switch, } from 'react-router-dom';
 import Home from './Pages/Home';
 import Blog from './Pages/Blog';
 import AboutMe from './Pages/AboutMe';
-import ProjectPage from './Components/ProjectPage';
+import ProjectPage from './Pages/ProjectPage';
 
 function App() {
     return (
