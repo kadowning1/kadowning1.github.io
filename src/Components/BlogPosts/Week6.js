@@ -10,18 +10,20 @@ export default function Week6() {
                             class="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
                         <div class="card-body text-white">
                             <h5 class="card-title text-white">Week 2 Front-End</h5>
-                            <p class="card-text">Our last Vanilla Javascript learning week is complete.  We had to create Tic-Tac-Toe using 
-                            class structures and it was quite the learning curve.  Our instructors introduced the project earlier than usual so I knew it was going to be an uphill climb to 
-                            deliver during the demo phase of our camp.  It was a week of ups and downs, but overall it was a week in which I feel like I grew and learned immeasurably. </p>
+                            <p class="card-text">Week 2 of Front-end of the Bootcamp is in the books. Our cohort had an up and down week with learning through the 
+                            camp and dealing with the realities of 2021.  We had a few days remote this week and ended the week 
+                            back in person to demo our Weather projects.  
+                            I learn so much by being in person and one of the main reasons I decided to do this Web Dev class.</p>
 
-                            <p>The Model, View, Controller (MVC) design pattern introduced to us both helped and hurt me during this week.  
-                                It helped me compartmentalize where certain aspects of the code needed to go, but overall it took a couple of days for me to wrap my head around the concept.  
-                                Ultimately, it was repetition and hard work that helped me get through this week and have a working Tic-Tac-Toe game to show our cohort.</p>
+                            <p>This week we learned how to fetch an API and return up-to-date information that we can use while creating different programs.  
+                                API's open up so many possibilities for our current and future projects.  It is still amazing how everyone in our class is writing code that 
+                                differs and accomplishes the same result.  You're able to tell how others in the Bootcamp develop good code by having it logical, clear, and 
+                                understandable to the class.  These are key traits that I hope to include in each of my projects going forward.</p>
 
-                            <p>With this design pattern, it helped not only with actual code but also with the psuedocode.  
-                                The psuedocode that is written will help structure the page and set your logic to when it is time to write code, you can walk through line by line to 
-                                get the code to do what you want it to.  
-                                I know this is not a strength of mine at the moment, but an opportunity to grow and continue learning through the camp.</p>
+                            <p>Looking forward to this week, we are working on a Tic-Tac-Toe project that is sure to test our capabilities.  I enjoy 
+                                each week seeing what aspects of our prior projects I can use and help me brainstorm for current projects.  It is always 
+                                a test to fit the puzzle together, but knowing to do this one 
+                                step at a time will be beneficial.  I can't wait to continue to learn and build on our concepts each day.</p>
                         </div>
                         <div class="card-footer">
                             <small class="text-center">Week of September 27 to October 3, 2021</small>

@@ -28,7 +28,6 @@ export default function Week4() {
                             will be something to get used to again. I know it is only going to make me better in the
                             future. There will be several ups and downs throughout the Bootcamp, but by taking it day by
                             day I will certainly see the work pay off.</p>
-                        <p>See you next week! </p>
                         <div class="card-footer">
                             <small class="">Week of September 13 to September 19, 2021</small>
                         </div>

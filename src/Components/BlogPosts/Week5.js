@@ -10,7 +10,7 @@ export default function Week5() {
                             class="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
                         <h5 class="card-title text-white">Week 1 Front-End</h5>
                         <p class="card-text">
-                            First week in person. What a difference it makes for me personally. The people I've met, the
+                            First week in person and what a difference it makes for me personally. The people I've met, the
                             concepts I've learned, the concepts I've built on, the sleep I have lacked has made it a fun
                             long week.</p>
                         <p>
@@ -26,8 +26,6 @@ export default function Week5() {
                             perspective with the difficult learning that is to come. This lifestyle will help me take
                             this journey one day at time to achieve my goals through this bootcamp.
                         </p>
-                        <p>
-                            See you next week! </p>
                         <div class="card-footer">
                             <small class="">Week of September 20 to September 26, 2021</small>
                         </div>
