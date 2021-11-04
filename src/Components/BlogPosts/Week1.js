@@ -20,8 +20,8 @@ export default function Week1() {
                                 anxiousness, and a sense of purpose knowing I'm on the right track. I've enjoyed all of the
                                 headaches and processes of the first week especially with <i>Git</i> and <i>GitHub</i>. I know it is
                                 not going to be easy, but I can't wait to build on skills each day. I'm looking forward to
-                                grasping <i>JavaScript</i> as well as continuing building on my introductory *Git* skills.
-                                Additionally in talking to mentors in the field, I'm eager to learn more on the *SQL* and
+                                grasping <i>JavaScript</i> as well as continuing building on my introductory <i>Git</i> skills.
+                                Additionally in talking to mentors in the field, I'm eager to learn more on the <i>SQL</i> and
                                 Backend side of the entire stack. Let the fun begin!</p>
                                 
                         <p> I will continue to add to this page frequently so be on the lookout for more content ahead!</p>

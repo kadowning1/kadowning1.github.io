@@ -6,7 +6,7 @@ export default function Todo() {
             <div className="card card-body flex-column text-center p-3 mb-2 bg-secondary text-white h-100">
                 <img className="card-img-top image-fluid mx-auto p-3" src='/img/Todo.png' alt='food' />
                 <br></br>
-                <a href='https://github.com/kadowning1/markdown-portfolio'><h5 class="card-title">MarkDown Project</h5></a>
+                <a href='https://github.com/kadowning1/markdown-portfolio' className='text-decoration-none'><h5 className="card-title fat text-decoration-none">ToDo Project</h5></a>
                 <p className="card-text">Lorem ipsum dolor sit amet, consectetur
                 adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                 magna aliqua. Ut enim ad minim

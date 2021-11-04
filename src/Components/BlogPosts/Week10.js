@@ -13,7 +13,7 @@ export default function Week10() {
                             <p class="card-text">Week 6 of Front-End of the Bootcamp is complete.  I feel like this was a big week for me.  
                             Oftentimes throughout the Bootcamp, 
                             I felt like I have struggled to learn concepts and implement them.  
-                            With this struggle, my confidence has been up and down each week.  </p>
+                            With this struggle, my confidence has been up and down each week.</p>
 
                             <p>This week our instructors introduced React Hooks and the beginnings of the back-end process of web development.  
                                 My project was to complete a user authentication app to grab data from an API and log in to the user successfully.  

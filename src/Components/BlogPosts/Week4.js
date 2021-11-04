@@ -18,7 +18,7 @@ export default function Week4() {
                             members and learn even more quickly with in-person instruction.</p>
                         <p>
                             In the past week, we have worked primarily on *psuedocode* and getting our thoughts in line.
-                            The *psuedocode* projects had up and downs for me (Imagine that!). I enjoyed getting my
+                            The <i>psuedocode</i> projects had up and downs for me (Imagine that!). I enjoyed getting my
                             thoughts together, but I know I need to get them better organized and more clear to
                             translate that into actual code. I can see a great help this will be before actually writing
                             the code, so I want to make sure to prioritize this going forward.

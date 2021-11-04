@@ -16,7 +16,7 @@ export default function Week5() {
                         <p>
                             It has been a week of ups and downs. One of my biggest hurdles is mentally preparing myself
                             for the lessons and projects. I've learning again "How to Learn" and enjoying the process.
-                            So many new concepts this week with Atomic Design and Bootstrap to add to our projects.
+                            So many new concepts this week with <i>Atomic Design</i> and <i>Bootstrap</i> to add to our projects.
                             Being able to stack each concept on top of previously learned concepts will be very key for
                             me.
                         </p>

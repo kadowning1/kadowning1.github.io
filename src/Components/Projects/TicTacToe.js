@@ -1,4 +1,6 @@
 import React from 'react'
+import {Button} from 'react-bootstrap'
+
 
 export default function TicTacToe() {
     return (
@@ -6,17 +8,23 @@ export default function TicTacToe() {
             <div className="card card-body flex-column text-center p-3 mb-2 bg-secondary text-white h-100">
                 <img className="card-img-top image-fluid mx-auto p-3" src='/img/TicTacToe.png' alt='food' />
                 <br></br>
-                <a href='https://github.com/kadowning1/markdown-portfolio'><h5 class="card-title">MarkDown Project</h5></a>
-                <p className="card-text">Lorem ipsum dolor sit amet, consectetur
-                adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua. Ut enim ad minim
-                veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                commodo consequat. Duis aute irure dolor
-                ineprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <h5 class="card-title fat">TicTacToe Project</h5>
+                <p className="card-text">By default, the app should
+use the symbols X and O. <br></br>
+On each player’s turn, that player places one of their symbols on an unoccupied space by clicking.
+<br></br>
+The game continues until one player places three symbols in a straight line (horizontal, vertical, or diagonal) and wins or there are no remaining available spaces and it is a draw.
+<br></br>
+The Entire Game should be Object-Oriented
+</p>
                 <p className="card-text">
                     <b>Tech Stack:</b> HTML, CSS, Bootstrap, JavaScript</p>
+                    <Button variant="secondary" size="lg" href='https://kadowning1.github.io/tictactoe/' target='_blank'>
+      Application
+    </Button>
+    <Button variant="secondary" size="lg" href='https://github.com/kadowning1/tictactoe' target='_blank'>
+      Github Repo
+    </Button>
             </div>
         </div>
 
