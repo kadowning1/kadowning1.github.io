@@ -12,7 +12,7 @@ function App() {
     return (
         <>
             <body className='back text-white'>
-                <div className="container justify-content-center">
+                <div className="container justify-content-center back">
                     <BrowserRouter>
                         <Header />
                         <Switch>

@@ -58,6 +58,17 @@ html {
     overflow-y: scroll;
 }    
 
-body {
+html {
     background-color: #262626;
+    background-repeat: repeat-y;
+}
+
+.fats {
+    color: #f9f9f9;
+    font-size: calc(3vw + 1vh + 2vmin);
+    text-shadow:
+    -1px -1px 0 rgb(0, 0, 0),
+    1px -1px 0 rgb(0, 0, 0),
+    -1px 1px 0 rgb(0, 0, 0),
+    1px 1px 0 rgb(0, 0, 0);
 }

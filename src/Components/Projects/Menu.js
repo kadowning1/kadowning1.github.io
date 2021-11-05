@@ -3,7 +3,7 @@ import { Button } from 'react-bootstrap'
 
 export default function Menu() {
     return (
-        <div className="col-md-4 col-sm-12 py-2 justify-content-center">
+        <div className="col-lg-4 col-md-6 col-sm-12 py-2 justify-content-center">
             <div className="card card-body flex-column text-center p-3 mb-2 bg-secondary text-white h-100">
                 <img className="card-img-top image-fluid mx-auto p-3" src='/img/Menu.png' alt='food' />
                 <br></br>
