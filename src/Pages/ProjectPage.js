@@ -4,6 +4,7 @@ import Mindreader from '../Components/Projects/Mindreader'
 import Todo from '../Components/Projects/Todo'
 import FishingHooks from '../Components/Projects/FishingHooks'
 import Menu from '../Components/Projects/Menu'
+import Weather from '../Components/Projects/Weather'
 
 export default function ProjectPage() {
     return (
@@ -11,10 +12,11 @@ export default function ProjectPage() {
             <div className='row'>
                 <h1 className='text-center'>Projects</h1>
                 <Mindreader />
-                <Todo />
                 <TicTacToe />
-                <FishingHooks />
+                <Todo />
                 <Menu />
+                <Weather />
+                <FishingHooks />
             </div>
         </div>
     )

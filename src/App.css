@@ -46,17 +46,18 @@
 }
 
 .back{
-    background-color: #707e95;
+    background-color: #262626;
 }
 
 .taco {
-color: #5189b7
+    color: #5189b7
 }
 
 html {
     min-height: 100%;
     overflow-y: scroll;
 }    
+
 body {
-     min-height: 100%;
+    background-color: #262626;
 }

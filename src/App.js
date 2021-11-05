@@ -11,7 +11,7 @@ import ProjectPage from './Pages/ProjectPage';
 function App() {
     return (
         <>
-            <body className='bg-dark text-white'>
+            <body className='back text-white'>
                 <div className="container justify-content-center">
                     <BrowserRouter>
                         <Header />

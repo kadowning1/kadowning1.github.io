@@ -1,22 +1,22 @@
 import React from 'react'
+import { Button } from 'react-bootstrap'
 
 export default function Todo() {
     return (
-        <div className="col-md-6 col-sm-12 py-2 justify-content-center">
+      <div className="col-md-4 col-sm-12 py-2 justify-content-center">
             <div className="card card-body flex-column text-center p-3 mb-2 bg-secondary text-white h-100">
                 <img className="card-img-top image-fluid mx-auto p-3" src='/img/Todo.png' alt='food' />
                 <br></br>
-                <a href='https://github.com/kadowning1/markdown-portfolio' className='text-decoration-none'><h5 className="card-title fat text-decoration-none">ToDo Project</h5></a>
-                <p className="card-text">Lorem ipsum dolor sit amet, consectetur
-                adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua. Ut enim ad minim
-                veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                commodo consequat. Duis aute irure dolor
-                ineprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <h3 className="card-title text-decoration-none fat">ToDo List</h3>
+                <h5 className="card-text p-2">Application displays items on the to-do list and their active status while retaining state upon revisiting with Local Storage for the user</h5>
                 <p className="card-text">
-                    <b>Tech Stack:</b> HTML, CSS, Bootstrap, JavaScript, React</p>
+                    <b>Tech Stack:</b> HTML, CSS,
+                                    Bootstrap, JavaScript, React
+                                </p>
+                <Button variant="secondary" size="lg" href='https://todo-list-81789.web.app/' target='_blank'>
+                    Demo App </Button>
+                <Button variant="secondary" size="lg" href='https://github.com/kadowning1/todoList' target='_blank'>
+                    Github Repo </Button>
             </div>
         </div>
     )
