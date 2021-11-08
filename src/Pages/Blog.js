@@ -9,13 +9,14 @@ import Week7 from '../Components/BlogPosts/Week7'
 import Week8 from '../Components/BlogPosts/Week8'
 import Week9 from '../Components/BlogPosts/Week9'
 import Week10 from '../Components/BlogPosts/Week10'
+import Week11 from '../Components/BlogPosts/Week11'
 
 export default function Blog() {
     return (
         <>
             <div className='container'>
                 <div className="row">
-                <h1 className='text-center'>Blog Posts</h1>
+                    <h1 className='text-center'>Blog Posts</h1>
                     <Week1 />
                     <Week2 />
                     <Week3 />
@@ -26,6 +27,7 @@ export default function Blog() {
                     <Week8 />
                     <Week9 />
                     <Week10 />
+                    <Week11 />
                 </div>
             </div>
         </>
