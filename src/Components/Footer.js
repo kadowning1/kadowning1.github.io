@@ -12,7 +12,7 @@ export default function Footer() {
                 <Nav className="mr-auto">
                 </Nav>
             </Navbar>
-                    <Nav.Link><a className='text-decoration-none text-white text-center' href="mailto:kadowning1@gmail.com">Email Me!</a></Nav.Link>
+       <h6><a className='text-decoration-none text-white text-center' href="https://docs.google.com/forms/d/1GbrAgzJUSLAjVfId5Dn4uYOJB3lm9MfbR-pLqFehydI/prefill">Contact Me Here!</a></h6>
             <Links />
         </footer>
     )
