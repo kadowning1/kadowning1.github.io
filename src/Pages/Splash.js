@@ -15,7 +15,7 @@ export default function Splash() {
                                 <div class='position-static text-color'>
                                     <div class="position-absolute top-50 start-50 translate-middle text-center">
                                         <h1 class="card-title fats">Keith Downing</h1>
-                                        <br></br>
+                                        {/* <br></br> */}
                                         <h2 class="card-title fatter">Web Developer</h2>
                                         {/* <Link to="/aboutme" as={Link} className="btn btn-secondary lg p-3">Enter</Link> */}
                                     </div>
