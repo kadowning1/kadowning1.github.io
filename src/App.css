@@ -27,6 +27,7 @@ html {
 .fats {
     color: #f9f9f9;
     font-size: calc(3vw + 1vh + 2vmin);
+    font-family: 'Rubik', sans-serif;
     /* text-shadow:
     -1px -1px 0 rgb(0, 0, 0),
     1px -1px 0 rgb(0, 0, 0),
@@ -35,9 +36,14 @@ html {
 }
 
 .fatter {
-    color: #f9f9f9;
+    color: #ffffff;
+    font-family: 'Rubik', sans-serif;
     font-size: calc(2vw + 1vh + 1vmin);
+    margin-bottom: 30px;
+    margin-top: 20px;
+
 }
+
 
 /* .stretch {
     width:100%;
