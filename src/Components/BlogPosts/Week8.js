@@ -2,15 +2,15 @@ import React from 'react'
 
 export default function Week8() {
     return (
-        <div class="container">
-            <div class="row p-3">
-                <div class="clearfix">
-                    <div class="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
+        <div className="container">
+            <div className="row p-3">
+                <div className="clearfix">
+                    <div className="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
                         <img src="/img/Menu.png"
-                            class="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
-                        <div class="card-body text-white">
-                            <h5 class="card-title text-white">Week 4 Front-End</h5>
-                            <p class="card-text">After the demo day this week, the Bootcamp is halfway through.
+                            className="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
+                        <div className="card-body text-white">
+                            <h5 className="card-title text-white">Week 4 Front-End</h5>
+                            <p className="card-text">After the demo day this week, the Bootcamp is halfway through.
                             It's awesome to see the progress of me and all of my fellow cohort members throughout the process so far.  We have all had our ups and downs,
                             successes and struggles, and yet we all show up the next day/week to take on the next challenge. </p>
 
@@ -23,8 +23,8 @@ export default function Week8() {
                             I love being about to have data so readily available that I can put it to use. In the coming weeks,
                                 I'm looking forward to seeing new ways to store and manipulate the data to get the result that I'm hoping to accomplish. </p>
                         </div>
-                        <div class="card-footer">
-                            <small class="text-center">Week of October 11 to October 17, 2021</small>
+                        <div className="card-footer">
+                            <small className="text-center">Week of October 11 to October 17, 2021</small>
                         </div>
                     </div>
                 </div>

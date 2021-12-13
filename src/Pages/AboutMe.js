@@ -8,7 +8,7 @@ export default function AboutMe() {
                 <div className='col'>
                     <h1 className='text-center'>About Me</h1>
                 <div className='col-4 col-sm-2 offset-4 offset-sm-5 text-center'>
-                    <img src="/img/mug.jpeg" class="card-img-top rounded mx-auto d-flex img-fluid img-thumbnail rounded-circle" alt="..." />
+                    <img src="/img/mug.jpeg" className="card-img-top rounded mx-auto d-flex img-fluid img-thumbnail rounded-circle" alt="..." />
                 </div>
                 </div>
                 <div className="text-center text-white">

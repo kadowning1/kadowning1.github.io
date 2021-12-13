@@ -2,14 +2,14 @@ import React from 'react'
 
 export default function Week4() {
     return (
-         <div class="container">
-            <div class="row p-3">
-                <div class="clearfix">
-                    <div class="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
+         <div className="container">
+            <div className="row p-3">
+                <div className="clearfix">
+                    <div className="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
                         <img src="/img/Bouncing Balls.png"
-                            class="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
-                        <h5 class="card-title text-white">Week 4 Onboarding</h5>
-                        <p class="card-text">It's hard to believe, but the remote portion of the Bootcamp has come to a
+                            className="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
+                        <h5 className="card-title text-white">Week 4 Onboarding</h5>
+                        <p className="card-text">It's hard to believe, but the remote portion of the Bootcamp has come to a
                             close. It has been very helpful in many regards like allowing me to transition at a slower
                             pace. I've been able to get some footing before diving completely in. Also, it has helped
                             with the mental aspect of this camp for me by letting me deal with my frustrations and
@@ -28,8 +28,8 @@ export default function Week4() {
                             will be something to get used to again. I know it is only going to make me better in the
                             future. There will be several ups and downs throughout the Bootcamp, but by taking it day by
                             day I will certainly see the work pay off.</p>
-                        <div class="card-footer">
-                            <small class="">Week of September 13 to September 19, 2021</small>
+                        <div className="card-footer">
+                            <small className="">Week of September 13 to September 19, 2021</small>
                         </div>
                     </div>
                 </div>

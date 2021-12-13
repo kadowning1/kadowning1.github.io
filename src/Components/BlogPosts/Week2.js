@@ -3,14 +3,14 @@ import React from 'react'
 export default function Week2() {
     return (
 
-        <div class="container">
-            <div class="row p-3">
-                <div class="clearfix">
-                    <div class="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
+        <div className="container">
+            <div className="row p-3">
+                <div className="clearfix">
+                    <div className="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
                         <img src="/img/Birdwatching.png"
-                            class="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
-                        <h5 class="card-title text-white">Week 2 Onboarding</h5>
-                        <p class="card-text">The second week of the remote onboarding is full of content! Introductions
+                            className="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
+                        <h5 className="card-title text-white">Week 2 Onboarding</h5>
+                        <p className="card-text">The second week of the remote onboarding is full of content! Introductions
                         to <i>HTML</i> , <i>CSS</i> , and <i>Google Dev Tools</i>  can be very overwhelming. I understand the main
                             concepts of each, but can't wait until they become repetitive and second nature. </p>
 
@@ -32,8 +32,8 @@ export default function Week2() {
                         in-person portion of the Bootcamp is just around the corner. Let the fun and learning
                             continue!</p>
 
-                        <div class="card-footer">
-                            <small class="">Week of August 30 to September 5, 2021</small>
+                        <div className="card-footer">
+                            <small className="">Week of August 30 to September 5, 2021</small>
                         </div>
                     </div>
                 </div>

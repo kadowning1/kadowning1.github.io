@@ -5,6 +5,7 @@ import Todo from '../Components/Projects/Todo'
 import FishingHooks from '../Components/Projects/FishingHooks'
 import Menu from '../Components/Projects/Menu'
 import Weather from '../Components/Projects/Weather'
+import FinalProject from '../Components/Projects/FinalProject'
 
 export default function ProjectPage() {
     return (
@@ -17,6 +18,7 @@ export default function ProjectPage() {
                 <Menu />
                 <Weather />
                 <FishingHooks />
+                <FinalProject />
             </div>
         </div>
     )

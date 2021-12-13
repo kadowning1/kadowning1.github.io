@@ -2,15 +2,15 @@ import React from 'react'
 
 export default function Week10() {
     return (
-        <div class="container">
-            <div class="row p-3">
-                <div class="clearfix">
-                    <div class="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
+        <div className="container">
+            <div className="row p-3">
+                <div className="clearfix">
+                    <div className="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
                         <img src="/img/Fishing.png"
-                            class="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
-                        <div class="card-body text-white">
-                            <h5 class="card-title text-white">Week 6 Front-End</h5>
-                            <p class="card-text">Week 6 of Front-End of the Bootcamp is complete.  I feel like this was a big week for me.
+                            className="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
+                        <div className="card-body text-white">
+                            <h5 className="card-title text-white">Week 6 Front-End</h5>
+                            <p className="card-text">Week 6 of Front-End of the Bootcamp is complete.  I feel like this was a big week for me.
                             Oftentimes throughout the Bootcamp,
                             I felt like I have struggled to learn concepts and implement them.
                             With this struggle, my confidence has been up and down each week.</p>
@@ -25,8 +25,8 @@ export default function Week10() {
                             With only six weeks left, the camp is flying by and our attention will now turn to
                                 managing the new concepts with trying to look forward to our job search at the end of camp.</p>
                         </div>
-                        <div class="card-footer">
-                            <small class="text-center">Week of October 25 to October 31, 2021</small>
+                        <div className="card-footer">
+                            <small className="text-center">Week of October 25 to October 31, 2021</small>
                         </div>
                     </div>
                 </div>

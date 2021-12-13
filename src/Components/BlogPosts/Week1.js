@@ -2,15 +2,15 @@ import React from 'react'
 
 export default function Week1() {
     return (
-        <div class="container">
-            <div class="row p-3">
-                <div class="clearfix">
-                    <div class="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
+        <div className="container">
+            <div className="row p-3">
+                <div className="clearfix">
+                    <div className="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
                         <img src="/img/Markdown.png"
-                            class="rounded mx-auto d-block img-fluid img-thumbnail p-2" alt="..." />
-                        <div class="card-body text-white">
-                            <h5 class="card-title text-white">Week 1 Onboarding</h5>
-                            <p class="card-text">Creating my first blog post during the onboarding stages of the Web Dev
+                            className="rounded mx-auto d-block img-fluid img-thumbnail p-2" alt="..." />
+                        <div className="card-body text-white">
+                            <h5 className="card-title text-white">Week 1 Onboarding</h5>
+                            <p className="card-text">Creating my first blog post during the onboarding stages of the Web Dev
                             bootcamp. I have been learning up to this point to seamlessly enter the bootcamp as prepared
                             as possible while also leaving myself opportunities to see how others can teach me certain
                                 aspects. I'm trying to combine many avenues (SoloLearn, FreeCodeCamp, Eloquent <i>Javascript</i> and
@@ -26,8 +26,8 @@ export default function Week1() {
 
                             <p> I will continue to add to this page frequently so be on the lookout for more content ahead!</p>
                         </div>
-                        <div class="card-footer">
-                            <small class="text-center">Week of August 23 to August 29, 2021</small>
+                        <div className="card-footer">
+                            <small className="text-center">Week of August 23 to August 29, 2021</small>
                         </div>
                     </div>
                 </div>

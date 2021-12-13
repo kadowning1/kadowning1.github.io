@@ -2,14 +2,14 @@ import React from 'react'
 
 export default function Week3() {
     return (
-        <div class="container">
-            <div class="row p-3">
-                <div class="clearfix">
-                    <div class="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
+        <div className="container">
+            <div className="row p-3">
+                <div className="clearfix">
+                    <div className="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
                         <img src="/img/Alarm Clock.png"
-                            class="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
-                        <h5 class="card-title text-white">Week 3 Onboarding</h5>
-                         <p class="card-text">From my prior post, I looked up and down the aisles way too often this week.  It was quite the week overall.  
+                            className="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
+                        <h5 className="card-title text-white">Week 3 Onboarding</h5>
+                         <p className="card-text">From my prior post, I looked up and down the aisles way too often this week.  It was quite the week overall.  
                          Lots of learning of <i>Dev Tools</i> and <i>JavaScript</i> while leaning back on initial concepts of <i>HTML</i> and <i>CSS</i>. </p>
 
                         <p>Our task was to create an Alarm Clock application to Demo on Friday.  I thought I had a solid grasp of the concepts, 
@@ -24,8 +24,8 @@ export default function Week3() {
                         <p>Next week is full-on <i>psuedocode</i>.  I think this week will be vital for me to help establish my thoughts before writing the code.  
                             If I have my thoughts in order, the code hopefully will follow!
                         </p>
-                        <div class="card-footer">
-                            <small class="">Week of September 6 to September 12, 2021</small>
+                        <div className="card-footer">
+                            <small className="">Week of September 6 to September 12, 2021</small>
                         </div>
                     </div>
                 </div>

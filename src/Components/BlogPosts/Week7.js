@@ -2,15 +2,15 @@ import React from 'react'
 
 export default function Week7() {
     return (
-      <div class="container">
-            <div class="row p-3">
-                <div class="clearfix">
-                    <div class="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
+      <div className="container">
+            <div className="row p-3">
+                <div className="clearfix">
+                    <div className="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
                         <img src="/img/TicTacToe.png"
-                            class="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
-                        <div class="card-body text-white">
-                            <h5 class="card-title text-white">Week 3 Front-End</h5>
-                            <p class="card-text">Our last Vanilla Javascript learning week is complete.  We had to create Tic-Tac-Toe using 
+                            className="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
+                        <div className="card-body text-white">
+                            <h5 className="card-title text-white">Week 3 Front-End</h5>
+                            <p className="card-text">Our last Vanilla Javascript learning week is complete.  We had to create Tic-Tac-Toe using 
                             class structures and it was quite the learning curve.  Our instructors introduced the project earlier than usual so I knew it was going to be an uphill climb to 
                             deliver during the demo phase of our camp.  It was a week of ups and downs, but overall it was a week in which I feel like I grew and learned immeasurably. </p>
 
@@ -23,8 +23,8 @@ export default function Week7() {
                                 get the code to do what you want it to.  
                                 I know this is not a strength of mine at the moment, but an opportunity to grow and continue learning through the camp.</p>
                         </div>
-                        <div class="card-footer">
-                            <small class="text-center">Week of October 4 to October 10, 2021</small>
+                        <div className="card-footer">
+                            <small className="text-center">Week of October 4 to October 10, 2021</small>
                         </div>
                     </div>
                 </div>
