@@ -6,6 +6,7 @@ import FishingHooks from '../Components/Projects/FishingHooks'
 import Menu from '../Components/Projects/Menu'
 import Weather from '../Components/Projects/Weather'
 import FinalProject from '../Components/Projects/FinalProject'
+import { Hulu } from '../Components/Projects/Hulu'
 
 export default function ProjectPage() {
     return (
@@ -19,6 +20,7 @@ export default function ProjectPage() {
                 <Weather />
                 <FishingHooks />
                 <FinalProject />
+                <Hulu />
             </div>
         </div>
     )
