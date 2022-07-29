@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Week5() {
+export default function Week5 () {
     return (
         <div className="container">
             <div className="row p-3">

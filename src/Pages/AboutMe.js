@@ -1,6 +1,8 @@
-import React from 'react'
+import React from 'react';
+// import data from '../../src/data.json';
 
-export default function AboutMe () {
+export const AboutMe = () => {
+
     return (
 
         <div className='container p-3' id='aboutme'>
@@ -35,3 +37,5 @@ export default function AboutMe () {
         </div>
     )
 }
+
+export default AboutMe;

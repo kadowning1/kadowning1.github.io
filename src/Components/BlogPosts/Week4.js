@@ -1,8 +1,8 @@
 import React from 'react'
 
-export default function Week4() {
+export default function Week4 () {
     return (
-         <div className="container">
+        <div className="container">
             <div className="row p-3">
                 <div className="clearfix">
                     <div className="card position-relative top-50 start-50 translate-middle bg-secondary p-3">
@@ -35,6 +35,6 @@ export default function Week4() {
                 </div>
             </div>
         </div>
-    
+
     )
 }

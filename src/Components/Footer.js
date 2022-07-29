@@ -4,7 +4,7 @@ import { Nav, Navbar } from 'react-bootstrap'
 import { Link, } from 'react-router-dom'
 import Links from './Links'
 
-export default function Footer() {
+export default function Footer () {
 
     const googleForm = 'https://forms.gle/Yax6mbmA28hHJrQ49'
 

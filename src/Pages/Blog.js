@@ -10,12 +10,26 @@ import Week8 from '../Components/BlogPosts/Week8'
 import Week9 from '../Components/BlogPosts/Week9'
 import Week10 from '../Components/BlogPosts/Week10'
 import Week11 from '../Components/BlogPosts/Week11'
+import { event_click } from '../lib/ga/Analytics'
+import { useLocation } from 'react-router-dom'
+// import useRouter from 'next/router'
 
-export default function Blog() {
+export const Blog = () => {
+    const usePageViews = () => {
+        let location = useLocation();
+        React.useEffect(() => {
+            event_click(location.pathname, "pageview");
+        });
+    }
+
+    usePageViews();
+
+    const history = usePageViews();
+
     return (
         <>
             <div className='container'>
-                <div className="row">
+                <div className="row" onClick={history}>
                     <h1 className='text-center'>Blog Posts</h1>
                     <Week1 />
                     <Week2 />
@@ -33,3 +47,5 @@ export default function Blog() {
         </>
     )
 }
+
+export default Blog;
