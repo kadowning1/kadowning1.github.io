@@ -1,101 +1,102 @@
-[{
-        "week": 1,
-        "headline": "Week One Blog",
-        "p1": "text",
-        "p2": "text",
-        "p3": "more text",
-        "p4": "close",
-        "date": "August",
-        "image": "img"
-    },
-    {
-        "week": 2,
-        "headline": "Week Two Blog",
-        "p1": "text",
-        "p2": "text",
-        "p3": "more text",
-        "p4": "close",
-        "date": "August",
-        "image": "img"
-    },
-    {
-        "week": 3,
-        "headline": "Week Three Blog",
-        "p1": "text",
-        "p2": "text",
-        "p3": "more text",
-        "p4": "close",
-        "date": "August",
-        "image": "img"
-    },
-    {
-        "week": 4,
-        "headline": "Week Four Blog",
-        "p1": "text",
-        "p2": "text",
-        "p3": "more text",
-        "p4": "close",
-        "date": "August",
-        "image": "img"
-    },
-    {
-        "week": 5,
-        "headline": "Week Five Blog",
-        "p1": "text",
-        "p2": "text",
-        "p3": "more text",
-        "p4": "close",
-        "date": "August",
-        "image": "img"
-    },
-    {
-        "week": 6,
-        "headline": "Week One Blog",
-        "p1": " up so many possibilities for our current and future projects.  It is still amazing how everyone in our class is writing code that differs and accomplishes the same result.  You're able to tell how others in the Bootcamp develop good code by having it logical, clear, and understandable to the class.  These are key traits that I hope to include in each of my projects going forwar",
-        "p2": "text",
-        "p3": "more text",
-        "p4": "close",
-        "date": "August",
-        "image": "img/Screen Shot 2021-10-01 at 4.06.36 PM.png"
-    },
-    {
-        "week": 7,
-        "headline": "Week One Blog",
-        "p1": "text",
-        "p2": "text",
-        "p3": "more text",
-        "p4": "close",
-        "date": "August",
-        "image": "img"
-    },
-    {
-        "week": 8,
-        "headline": "Week One Blog",
-        "p1": "text",
-        "p2": "text",
-        "p3": "more text",
-        "p4": "close",
-        "date": "August",
-        "image": "img"
-    },
-    {
-        "week": 9,
-        "headline": "Week One Blog",
-        "p1": "text",
-        "p2": "text",
-        "p3": "more text",
-        "p4": "close",
-        "date": "August",
-        "image": "img"
-    },
-    {
-        "week": 10,
-        "headline": "Week One Blog",
-        "p1": "text",
-        "p2": "text",
-        "p3": "more text",
-        "p4": "close",
-        "date": "August",
-        "image": "img"
-    }
+[
+  {
+    "week": 1,
+    "headline": "Week One Blog",
+    "p1": "Creating my first blog post during the onboarding stages of the Web Dev bootcamp. I have been learning up to this point to seamlessly enter the bootcamp as prepared as possible while also leaving myself opportunities to see how others can teach me certain aspects. I'm trying to combine many avenues (SoloLearn, FreeCodeCamp, Eloquent Javascript and Prework) to be in a position to approach the camp full steam ahead.",
+    "p2": "The first week has given me all the emotions that I've expected. Excitement, nervousness, anxiousness, and a sense of purpose knowing I'm on the right track. I've enjoyed all of the headaches and processes of the first week especially with <i>Git</i> and <i>GitHub</i>. I know it is not going to be easy, but I can't wait to build on skills each day. I'm looking forward to grasping <i>JavaScript</i> as well as continuing building on my introductory <i>Git</i> skills. Additionally in talking to mentors in the field, I'm eager to learn more on the <i>SQL</i> and Backend side of the entire stack. Let the fun begin!",
+    "p3": "more text",
+    "p4": "close",
+    "date": "Week of August 23 to August 29, 2021<",
+    "image": "/img/Markdown.png"
+  },
+  {
+    "week": 2,
+    "headline": "Week Two Blog",
+    "p1": "text",
+    "p2": "text",
+    "p3": "more text",
+    "p4": "close",
+    "date": "August",
+    "image": "img"
+  },
+  {
+    "week": 3,
+    "headline": "Week Three Blog",
+    "p1": "text",
+    "p2": "text",
+    "p3": "more text",
+    "p4": "close",
+    "date": "August",
+    "image": "img"
+  },
+  {
+    "week": 4,
+    "headline": "Week Four Blog",
+    "p1": "text",
+    "p2": "text",
+    "p3": "more text",
+    "p4": "close",
+    "date": "August",
+    "image": "img"
+  },
+  {
+    "week": 5,
+    "headline": "Week Five Blog",
+    "p1": "text",
+    "p2": "text",
+    "p3": "more text",
+    "p4": "close",
+    "date": "August",
+    "image": "img"
+  },
+  {
+    "week": 6,
+    "headline": "Week One Blog",
+    "p1": " up so many possibilities for our current and future projects.  It is still amazing how everyone in our class is writing code that differs and accomplishes the same result.  You're able to tell how others in the Bootcamp develop good code by having it logical, clear, and understandable to the class.  These are key traits that I hope to include in each of my projects going forwar",
+    "p2": "text",
+    "p3": "more text",
+    "p4": "close",
+    "date": "August",
+    "image": "img/Screen Shot 2021-10-01 at 4.06.36 PM.png"
+  },
+  {
+    "week": 7,
+    "headline": "Week One Blog",
+    "p1": "text",
+    "p2": "text",
+    "p3": "more text",
+    "p4": "close",
+    "date": "August",
+    "image": "img"
+  },
+  {
+    "week": 8,
+    "headline": "Week One Blog",
+    "p1": "text",
+    "p2": "text",
+    "p3": "more text",
+    "p4": "close",
+    "date": "August",
+    "image": "img"
+  },
+  {
+    "week": 9,
+    "headline": "Week One Blog",
+    "p1": "text",
+    "p2": "text",
+    "p3": "more text",
+    "p4": "close",
+    "date": "August",
+    "image": "img"
+  },
+  {
+    "week": 10,
+    "headline": "Week One Blog",
+    "p1": "text",
+    "p2": "text",
+    "p3": "more text",
+    "p4": "close",
+    "date": "August",
+    "image": "img"
+  }
 ]
