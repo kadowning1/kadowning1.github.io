@@ -7,9 +7,9 @@ export default function BlogPost() {
 
   return (
     <Container className=''>
-      <Row className='p-3'>
-        {blog.map((blog, index) => (
-          <Col className='my-3 d-flex' key={index} sm={12}>
+      <Row className='p-3 justify-content-center'>
+        {blog.map((blog) => (
+          <Col className='my-3 d-flex' key={blog.week} sm={5}>
             <div className='card position-relative top-50 start-50 translate-middle bg-secondary p-3'>
               <div className='card-body text-white'>
                 <img
@@ -35,6 +35,17 @@ export default function BlogPost() {
                   <div id='example-collapse-text' className='card-text'>
                     {blog.p2}
                     {blog.p3}
+                    {blog.p4}
+                    <div className='text-center pt-2'>
+                      <Button
+                        onClick={() => setOpen(!open)}
+                        aria-controls='example-collapse-text'
+                        aria-expanded={open}
+                        variant='outline-light'
+                      >
+                        Close
+                      </Button>
+                    </div>
                   </div>
                 </Collapse>
               </div>
