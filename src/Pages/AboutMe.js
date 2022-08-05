@@ -1,14 +1,13 @@
 import React from 'react';
-// import data from '../../src/data.json';
+import aboutme from '../aboutme.json'
 
 export const AboutMe = () => {
 
     return (
-
         <div className='container p-3' id='aboutme'>
             <div className='row d-flex justify-content-center'>
                 <div className='col'>
-                    <h1 className='text-center'>About Me</h1>
+                    <h1 className='text-center'>{aboutme[0]?.title}</h1>
                     <div className='col-4 col-sm-2 offset-4 offset-sm-5 text-center'>
                         <img src="/img/mug.jpeg" className="card-img-top rounded mx-auto d-flex img-fluid img-thumbnail rounded-circle" alt="..." />
                     </div>
