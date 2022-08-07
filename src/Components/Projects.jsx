@@ -49,6 +49,14 @@ export const Projects = () => {
             >
               Github Back-End Repo{' '}
             </Button>
+            <Button
+              variant='secondary'
+              size='lg'
+              href='https://cat-steves.web.app/'
+              target='_blank'
+            >
+              Group Project App
+            </Button>
           </div>
         </div>
       ))}
