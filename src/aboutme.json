@@ -1,14 +1,10 @@
 [
   {
-    "week": 1,
     "title": "About Me",
-    "projectDescription": "PGA Golf Pool is a web application that allows users to create and manage a pool of golfers. The application allows users to create a pool of golfers, add golfers to the pool, and remove golfers from the pool. The application also allows users to view the pool and the statistics of the pool.",
-    "p2": "The first week has given me all the emotions that I've expected. Excitement, nervousness, anxiousness, and a sense of purpose knowing I'm on the right track. I've enjoyed all of the headaches and processes of the first week especially with Git and GitHub. I know it is not going to be easy, but I can't wait to build on skills each day. I'm looking forward to grasping JavaScript as well as continuing building on my introductory Git skills. Additionally in talking to mentors in the field, I'm eager to learn more on the SQL and Backend side of the entire stack. Let the fun begin!",
-    "p3": "I will continue to add to this page frequently so be on the lookout for more content ahead!",
-    "techStack": "HTML, CSS, React-Bootstrap, JavaScript, React Hooks, React-Router, Axios, PHP, Laravel",
-    "image": "/img/golf.png",
-    "backendLink": "https://github.com/kadowning1/golfFinalBackEnd",
-    "frontendLink": "https://github.com/kadowning/golfFinalFrontEnd",
-    "liveLink": "https://golfpgapool.web.app/"
+    "image": "/img/mug.jpeg",
+    "preBootcamp": "Originally from Maysville, KY,  I have now lived in Lexington, KY for around a decade after graduating from the University of Kentucky with a business degree. Previously, I have worked in financial roles coordinating financial reporting and reconciliation for clients. For the past 16 weeks, I have explored a career change by attending Awesome Inc U's Full Stack Web Development Bootcamp. I have been able to learn at a rapid pace with deep dives into HTML, CSS, Bootstrap, React, PHP, SQL, and Laravel. I am hoping to combine my pre-Bootcamp skills with my Bootcamp knowledge to provide the skills necessary to complete tasks and projects as a team.",
+    "postBootcamp": "The first week has given me all the emotions that I've expected. Excitement, nervousness, anxiousness, and a sense of purpose knowing I'm on the right track. I've enjoyed all of the headaches and processes of the first week especially with Git and GitHub. I know it is not going to be easy, but I can't wait to build on skills each day. I'm looking forward to grasping JavaScript as well as continuing building on my introductory Git skills. Additionally in talking to mentors in the field, I'm eager to learn more on the SQL and Backend side of the entire stack. Let the fun begin!",
+    "family": "When not working on broadening my professional skills, I enjoy my dogs (Sam and Molly), basketball, woodworking, gardening, and getting together with friends.  My wife Bekah, a native of Fort Thomas, KY works for Glendover Elementary as a Gifted and Talented teacher.  We are proud parents of our 1-year old son, Wyatt.",
+    "familyIMG": "/img/K+B-52.jpg"
   }
 ]

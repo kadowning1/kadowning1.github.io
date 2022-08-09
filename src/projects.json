@@ -22,38 +22,38 @@
     "id": 3,
     "projectName": "Hulu Clone",
     "projectDescription": "To-Do",
-    "techStack": "HTML, CSS, React-Bootstrap, JavaScript, React Hooks, React-Router, Axios, PHP, Laravel",
+    "techStack": "React, nextJS, TailwindCSS",
     "image": "/img/Hulu.png",
     "githubLink": "https://github.com/kadowning1/huluClone",
     "liveLink": "https://www.hulu-clone-nine-sigma.vercel.app"
   },
   {
     "id": 4,
-    "projectName": "PGA Golf Pool",
-    "projectDescription": "PGA Golf Pool is a web application that allows users to create and manage a pool of golfers. The application allows users to create a pool of golfers, add golfers to the pool, and remove golfers from the pool. The application also allows users to view the pool and the statistics of the pool.",
-    "techStack": "HTML, CSS, React-Bootstrap, JavaScript, React Hooks, React-Router, Axios, PHP, Laravel",
-    "image": "/img/golf.png",
-    "githubLink": "https://github.com/kadowning/golfFinalFrontEnd",
-    "liveLink": "https://golfpgapool.web.app/"
+    "projectName": "Menu Project",
+    "projectDescription": "Pulling information from an API to populate a Menu Page",
+    "techStack": "HTML, CSS, Bootstrap, JavaScript, React, Axios",
+    "image": "/img/Menu.png",
+    "githubLink": "https://github.com/kadowning1/menuPage",
+    "liveLink": "https://menu-da3d1.web.app/"
   },
   {
     "id": 5,
-    "projectName": "PGA Golf Pool",
-    "projectDescription": "PGA Golf Pool is a web application that allows users to create and manage a pool of golfers. The application allows users to create a pool of golfers, add golfers to the pool, and remove golfers from the pool. The application also allows users to view the pool and the statistics of the pool.",
-    "techStack": "HTML, CSS, React-Bootstrap, JavaScript, React Hooks, React-Router, Axios, PHP, Laravel",
-    "image": "/img/golf.png",
-    "githubLink": "https://github.com/kadowning/golfFinalFrontEnd",
-    "liveLink": "https://golfpgapool.web.app/"
+    "projectName": "Fishing Hooks Application",
+    "projectDescription": "Log-In Application for Cat Steve's fishing store. Application takes user information from an API to be able to log into and out of an app as a password-protected user using Local Storage.  Completed stretch goal to combine project will fellow bootcampers.",
+    "techStack": " HTML, CSS, React-Bootstrap, JavaScript, React Hooks, React-Router, Axios",
+    "image": "/img/Fishing.png",
+    "githubLink": "https://github.com/kadowning1/fishinghooks",
+    "liveLink": "https://fishinghooks-81a2b.web.app/",
+    "groupProject": "https://cat-steves.web.app/"
   },
   {
     "id": 6,
-    "projectName": "PGA Golf Pool",
-    "projectDescription": "PGA Golf Pool is a web application that allows users to create and manage a pool of golfers. The application allows users to create a pool of golfers, add golfers to the pool, and remove golfers from the pool. The application also allows users to view the pool and the statistics of the pool.",
-    "techStack": "HTML, CSS, React-Bootstrap, JavaScript, React Hooks, React-Router, Axios, PHP, Laravel",
-    "image": "/img/golf.png",
-    "backendLink": "https://github.com/kadowning1/golfFinalBackEnd",
-    "githubLink": "https://github.com/kadowning/golfFinalFrontEnd",
-    "liveLink": "https://golfpgapool.web.app/"
+    "projectName": "Tic Tac Toe Project",
+    "projectDescription": "Application lets user play traditional Tic-Tac-Toe and continue until a win/tie scenario is reached.",
+    "techStack": "HTML, CSS, Bootstrap, JavaScript",
+    "image": "/img/TicTacToe.png",
+    "githubLink": "https://github.com/kadowning1/tictactoe",
+    "liveLink": "https://kadowning1.github.io/tictactoe/"
   },
   {
     "id": 7,

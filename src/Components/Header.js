@@ -9,7 +9,7 @@ export default function Header () {
             <div className="col-12 text-center d-flex justify-content-center back">
                 <Navbar variant="dark" expand="lg" className='text-center back'>
                     <Navbar.Brand as={Link} to="/">Keith Downing - Web Developer</Navbar.Brand>
-                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                    <Navbar.Toggle aria-controls="basic-navbar-nav" className='d-sm-flex sm-flex-row d-md-none' />
                     <Navbar.Collapse id="basic-navbar-nav back">
                         <Nav className="mr-auto back">
                             <Nav.Link as={Link} to="/aboutme">About Me</Nav.Link>

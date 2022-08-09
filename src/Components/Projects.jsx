@@ -41,22 +41,26 @@ export const Projects = () => {
             >
               Github Front-End Repo{' '}
             </Button>
-            <Button
-              variant='secondary'
-              size='lg'
-              href={project.backendLink}
-              target='_blank'
-            >
-              Github Back-End Repo{' '}
-            </Button>
-            <Button
-              variant='secondary'
-              size='lg'
-              href='https://cat-steves.web.app/'
-              target='_blank'
-            >
-              Group Project App
-            </Button>
+            {project.backendLink && (
+              <Button
+                variant='secondary'
+                size='lg'
+                href={project.backendLink}
+                target='_blank'
+              >
+                Github Back-End Repo{' '}
+              </Button>
+            )}
+            {project.groupProject && (
+              <Button
+                variant='secondary'
+                size='lg'
+                href='https://cat-steves.web.app/'
+                target='_blank'
+              >
+                Group Project App
+              </Button>
+            )}
           </div>
         </div>
       ))}
